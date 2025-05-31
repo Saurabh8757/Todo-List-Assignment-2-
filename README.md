@@ -1,4 +1,4 @@
-echo "# React To-Do List Application
+# React To-Do List Application
 
 A feature-rich to-do list application built with React that includes:
 - Task addition with validation
@@ -88,6 +88,3 @@ npm test
 
 ![Todo List Screenshot](./public/screenshot.png.jpg)
 
-## License
-
-MIT" > README.md

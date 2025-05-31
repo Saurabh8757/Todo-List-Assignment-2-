@@ -1,0 +1,18 @@
+.App {
+  padding: 10px;
+  min-height: 100vh;
+  background-color: #6eaab4;
+}
+
+@media (min-width: 768px) {
+  .App {
+    padding: 20px;
+  }
+}
+
+/* Ensure proper mobile viewport */
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+}

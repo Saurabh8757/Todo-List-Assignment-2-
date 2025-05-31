@@ -86,7 +86,7 @@ npm test
 
 ## Screenshot
 
-![Todo List Screenshot](./screenshot.png)
+![Todo List Screenshot](./public/screenshot.png.jpg)
 
 ## License
 
